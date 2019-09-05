@@ -11,7 +11,9 @@ public class Main {
 	String personName=keyboard.nextLine();
 	System.out.println("hello" +"....." +personName);
 	
-
-	}
+	System.out.println("hello" +"....." +personName);
+	
+	
+}
 
 }
