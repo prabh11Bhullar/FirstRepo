@@ -10,11 +10,8 @@ public class Main {
 	Scanner keyboard=new Scanner(System.in);
 	String personName=keyboard.nextLine();
 	System.out.println("hello" +"....." +personName);
-	
-	System.out.println("hello" +"....." +personName);
-	
-	System.out.println("hello" +"....." +personName);
-	System.out.println("hello" +"....." +personName);
-}
+
+
+	}
 
 }
